@@ -1,0 +1,4 @@
+{"level":"info","ts":"2024-07-24T14:13:23.978+0530","caller":"logging/main.go:9","msg":"Hello world"}
+{"level":"error","ts":"2024-07-24T14:13:23.978+0530","caller":"logging/main.go:10","msg":"Not able to reach blog.","stacktrace":"main.main\n\t/home/navneet/Desktop/projects/logging/main.go:10\nruntime.main\n\t/snap/go/10660/src/runtime/proc.go:271"}
+{"level":"info","ts":"2024-07-24T14:17:10.303+0530","caller":"logging/main.go:9","msg":"Hello world"}
+{"level":"error","ts":"2024-07-24T14:17:10.303+0530","caller":"logging/main.go:10","msg":"Not able to reach blog.","stacktrace":"main.main\n\t/home/navneet/Desktop/projects/logging/main.go:10\nruntime.main\n\t/snap/go/10660/src/runtime/proc.go:271"}
